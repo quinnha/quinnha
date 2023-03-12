@@ -1,4 +1,16 @@
-### Hi there 👋
+### i'm quinn!
+
+3rd year software engineering student, just a regular dude doing regular things
+
+
+
+
+
+
+                  __                      __
+              ___( o)> quack?    quack? <(o )___
+              \ <_. )  quack ~   quack!  ( ._> /
+               `---'                      `---'   
 
 <!--
 **quinnha/quinnha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
