@@ -1,11 +1,16 @@
 ### i'm quinn!
 
-3rd year software engineering student at mcmaster u, just a regular dude doing regular things like:
+i'm a 3rd year software engineering student at mcmaster u, just a tech-ish dude doing tech-ish things like:
 - learning about accessibility
 - reworking my [website](https://www.quinnha.xyz/) for the 1000th time
-- taking too long to read descriptions at art galleries 
+- making an [ai of myself](https://www.quinnha.xyz/quinn-ai) because it looked fun
 
-check out some of my code here!
+on my free time, i like to be a regular dude and like to do regular things like:
+- taking too long to read descriptions at art galleries 
+- smashing birdies and spiking volleyballs (without injury!)
+- singing covers on my [ukulele](https://www.instagram.com/qh.music/)
+
+check out some of my code here! 
 
 contact me at [quinnha.hello@gmail.com](mailto:quinnha.hello@gmail.com) 
 
@@ -17,6 +22,8 @@ contact me at [quinnha.hello@gmail.com](mailto:quinnha.hello@gmail.com)
               ___( o)> quack?    quack? <(o )___
               \ <_. )  quack ~   quack!  ( ._> /
                `---'                      `---'   
+
+im open to new opportunities and collaborations <nobr>(๑˃̵　ᴗ　˂̵)و</nobr>
 
 [linkedin](https://www.linkedin.com/in/quinn-ha/) | [twitter](https://twitter.com/qvinnh)
 
