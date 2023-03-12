@@ -2,10 +2,10 @@
 
 3rd year software engineering student at mcmaster u, just a regular dude doing regular things like:
 - learning about accessibility
-- reworking my website for the 1000th time
+- reworking my [website](https://www.quinnha.xyz/) for the 1000th time
 - taking too long to read descriptions at art galleries 
 
-check out some of my code here, and give my [website](https://www.quinnha.xyz/) a peek!
+check out some of my code here!
 
 contact me at [quinnha.hello@gmail.com](mailto:quinnha.hello@gmail.com) 
 
