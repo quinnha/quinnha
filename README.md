@@ -18,10 +18,10 @@ contact me at [quinnha.hello@gmail.com](mailto:quinnha.hello@gmail.com)
 
 
 
-                  __                      __
-              ___( o)> quack?           <(o )___
-              \ <_. )            quack?  ( ._> /
-               `---'   quack!             `---'   
+             __                      __
+         ___( o)> quack?           <(o )___
+         \ <_. )            quack?  ( ._> /
+          `---'   quack!             `---'   
 
 im open to new opportunities and collaborations <nobr>(๑˃̵　ᴗ　˂̵)و</nobr>
 
