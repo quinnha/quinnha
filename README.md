@@ -1,6 +1,6 @@
 ### i'm quinn!
 
-i'm a 3rd year software engineering student at mcmaster u, just a tech-ish dude doing tech-ish things like:
+i'm a intern at google and 3rd year software engineering student at mcmaster u, just a tech-ish dude doing tech-ish things like:
 - learning about accessibility
 - reworking my [website](https://www.quinnha.xyz/) for the 1000th time
 - making an [ai of myself](https://www.quinnha.xyz/quinn-ai) because it looked fun
