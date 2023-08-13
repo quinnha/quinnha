@@ -1,14 +1,16 @@
 ### i'm quinn!
 
-i'm an intern at google, just a tech-ish dude doing tech-ish things like:
+i'm just a tech-ish dude doing tech-ish things like:
 - learning about accessibility
-- reworking my [website](https://www.quinnha.xyz/) for the 1000th time
+- adding blogs to my [website](https://www.quinnha.xyz/)
 - making an [ai of myself](https://www.quinnha.xyz/quinn-ai) because it looked fun
+
+i used to intern at google, but now i'm looking for 2024 new grad jobs out of nyc!
 
 on my free time, i like to be a regular dude and like to do regular things like:
 - taking too long to read descriptions at art galleries 
-- smashing birdies and spiking volleyballs (without injury!)
-- singing covers on my [ukulele](https://www.instagram.com/qh.music/)
+- smashing birdies and climbing rocks (without injury!)
+- taking a fat nap (20 minutes)
 
 check out some of my code here! 
 
