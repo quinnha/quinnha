@@ -5,7 +5,7 @@ i'm just a tech-ish dude doing tech-ish things like:
 - adding blogs to my [website](https://www.quinnha.xyz/)
 - making an [ai of myself](https://www.quinnha.xyz/quinn-ai) because it looked fun
 
-i used to intern at google, but now i'm looking for 2024 new grad jobs out of nyc!
+i used to intern at google, but now i'm looking for 2024 new grad swe jobs!
 
 on my free time, i like to be a regular dude and like to do regular things like:
 - taking too long to read descriptions at art galleries 
