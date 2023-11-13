@@ -3,7 +3,7 @@
 i'm just a tech-ish dude doing tech-ish things like:
 - learning about accessibility
 - adding blogs to my [website](https://www.quinnha.xyz/)
-- making an [youtube comment translator](https://github.com/wastadtlander/Youtube-Comment-Translator) 
+- making a [youtube comment translator](https://github.com/wastadtlander/Youtube-Comment-Translator) 
 
 on my free time, i like to be a regular dude and like to do regular things like:
 - taking too long to read descriptions at art galleries 
