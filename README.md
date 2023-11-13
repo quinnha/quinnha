@@ -3,13 +3,11 @@
 i'm just a tech-ish dude doing tech-ish things like:
 - learning about accessibility
 - adding blogs to my [website](https://www.quinnha.xyz/)
-- making an [ai of myself](https://www.quinnha.xyz/quinn-ai) because it looked fun
-
-i used to intern at google, but now i'm looking for 2024 new grad swe jobs!
+- making an [youtube comment translator](https://github.com/wastadtlander/Youtube-Comment-Translator) 
 
 on my free time, i like to be a regular dude and like to do regular things like:
 - taking too long to read descriptions at art galleries 
-- smashing birdies and climbing rocks (without injury!)
+- climbing plastic rocks
 - taking a fat nap (20 minutes)
 
 check out some of my code here! 
